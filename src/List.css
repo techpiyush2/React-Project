@@ -1,0 +1,24 @@
+.navbar{
+    display:flex;
+    align-items: center;
+    padding-left: 50px;
+    color: rgb(70, 70, 203);
+}
+.logo{
+    font-size: 30px;
+    color: blue;
+    display: flex;
+    padding-left: 200px;
+}
+.list{
+display: flex;
+align-items: flex-end;
+padding-left: 300px;
+
+}
+.list ul li{
+    display: inline-flex;
+    padding: 20px;
+    font-style: none;
+
+}
